@@ -1,0 +1,8 @@
+F:\PetaPocoDemo\PetaPocoDemo\bin\Debug\PetaPocoDemo.exe.config
+F:\PetaPocoDemo\PetaPocoDemo\obj\Debug\PetaPocoDemo.csprojResolveAssemblyReference.cache
+F:\PetaPocoDemo\PetaPocoDemo\bin\Debug\PetaPocoDemo.exe
+F:\PetaPocoDemo\PetaPocoDemo\bin\Debug\PetaPocoDemo.pdb
+F:\PetaPocoDemo\PetaPocoDemo\bin\Debug\System.Data.SQLite.dll
+F:\PetaPocoDemo\PetaPocoDemo\bin\Debug\System.Data.SQLite.xml
+F:\PetaPocoDemo\PetaPocoDemo\obj\Debug\PetaPocoDemo.exe
+F:\PetaPocoDemo\PetaPocoDemo\obj\Debug\PetaPocoDemo.pdb

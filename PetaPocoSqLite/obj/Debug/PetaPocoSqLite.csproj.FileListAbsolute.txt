@@ -1,0 +1,1 @@
+F:\PetaPocoDemo\PetaPocoDemo\bin\Debug\PetaPocoSqLite.exe.config
